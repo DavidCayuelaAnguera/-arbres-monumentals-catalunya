@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arbres Monumentals de Catalunya</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <!-- Pàgina Principal -->
+        <div id="home-page" class="page active">
+            <div class="watermark">
+                <i class="fas fa-tree"></i>
+            </div>
+            
+            <header class="main-header">
+                <h1>Arbres Monumentals de Catalunya</h1>
+                <h2>Arbres de les comarques de Barcelona i Girona</h2>
+            </header>
+            
+            <main class="main-content">
+                <div class="description-container">
+                    <p class="description">
+                        Catalunya alberga un patrimoni natural extraordinari format per arbres monumentals 
+                        que han resistit el pas del temps i es converteixen en testimonis vius de la nostra història. 
+                        Aquesta pàgina web recull una selecció d'aquests gegants verds de les províncies de 
+                        Barcelona i Girona, oferint informació detallada sobre cada exemplar i la seva 
+                        importància etnoecològica.
+                    </p>
+                    
+                    <p class="description">
+                        Descobreix aquests arbres extraordinaris, vota pel teu preferit i contribueix amb 
+                        les teves observacions per enriquir el coneixement col·lectiu sobre aquest 
+                        patrimoni natural únic.
+                    </p>
+                </div>
+                
+                <div class="navigation-buttons">
+                    <button class="nav-button" onclick="showPage('provinces')">
+                        <i class="fas fa-map-marked-alt"></i>
+                        Explorar per Províncies
+                    </button>
+                    
+                    <button class="nav-button" onclick="showPage('voting')">
+                        <i class="fas fa-vote-yea"></i>
+                        Votacions
+                    </button>
+                </div>
+            </main>
+            
+            <footer class="main-footer">
+                <div class="cc-info">
+                    <i class="fab fa-creative-commons"></i>
+                    <i class="fab fa-creative-commons-by"></i>
+                    <span>Aquest contingut està disponible sota llicència Creative Commons</span>
+                </div>
+                <div class="source-info">
+                    Font: Universitat Autònoma de Barcelona - Facultat de Biologia
+                </div>
+            </footer>
+        </div>
+
+        <!-- Pàgina de Províncies -->
+        <div id="provinces-page" class="page">
+            <header class="page-header">
+                <button class="back-button" onclick="showPage('home')">
+                    <i class="fas fa-arrow-left"></i> Tornar a l'inici
+                </button>
+                <h1>Províncies</h1>
+            </header>
+            
+            <main class="provinces-content">
+                <div class="province-cards">
+                    <div class="province-card" onclick="showProvinceComarcas('Barcelona')">
+                        <div class="card-icon">
+                            <i class="fas fa-city"></i>
+                        </div>
+                        <h3>Província de Barcelona</h3>
+                        <p>Descobreix els arbres monumentals de les comarques barcelonines</p>
+                        <div class="card-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="province-card" onclick="showProvinceComarcas('Girona')">
+                        <div class="card-icon">
+                            <i class="fas fa-mountain"></i>
+                        </div>
+                        <h3>Província de Girona</h3>
+                        <p>Explora els arbres monumentals de les comarques gironines</p>
+                        <div class="card-arrow">
+                            <i class="fas fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+
+        <!-- Pàgina de Comarques -->
+        <div id="comarcas-page" class="page">
+            <header class="page-header">
+                <button class="back-button" onclick="showPage('provinces')">
+                    <i class="fas fa-arrow-left"></i> Tornar a províncies
+                </button>
+                <button class="home-button" onclick="showPage('home')">
+                    <i class="fas fa-home"></i> Inici
+                </button>
+                <h1 id="comarca-province-title">Comarques</h1>
+            </header>
+            
+            <main class="comarcas-content">
+                <div id="comarca-list" class="comarca-cards">
+                    <!-- Les comarques es carregaran dinàmicament -->
+                </div>
+            </main>
+        </div>
+
+        <!-- Pàgina d'Arbres per Comarca -->
+        <div id="trees-page" class="page">
+            <header class="page-header">
+                <button class="back-button" onclick="goBackToComarcas()">
+                    <i class="fas fa-arrow-left"></i> Tornar a comarques
+                </button>
+                <button class="home-button" onclick="showPage('home')">
+                    <i class="fas fa-home"></i> Inici
+                </button>
+                <h1 id="trees-comarca-title">Arbres</h1>
+            </header>
+            
+            <main class="trees-content">
+                <div id="trees-list" class="tree-cards">
+                    <!-- Els arbres es carregaran dinàmicament -->
+                </div>
+            </main>
+        </div>
+
+        <!-- Pàgina de Detall d'Arbre -->
+        <div id="tree-detail-page" class="page">
+            <header class="page-header">
+                <button class="back-button" onclick="goBackToTrees()">
+                    <i class="fas fa-arrow-left"></i> Tornar als arbres
+                </button>
+                <button class="home-button" onclick="showPage('home')">
+                    <i class="fas fa-home"></i> Inici
+                </button>
+                <h1 id="tree-detail-title">Detall de l'Arbre</h1>
+            </header>
+            
+            <main class="tree-detail-content">
+                <div id="tree-detail-info">
+                    <!-- La informació de l'arbre es carregarà dinàmicament -->
+                </div>
+            </main>
+        </div>
+
+        <!-- Pàgina de Votacions -->
+        <div id="voting-page" class="page">
+            <header class="page-header">
+                <button class="back-button" onclick="showPage('home')">
+                    <i class="fas fa-arrow-left"></i> Tornar a l'inici
+                </button>
+                <h1>Votacions</h1>
+            </header>
+            
+            <main class="voting-content">
+                <div class="voting-intro">
+                    <p>Vota pel teu arbre monumental preferit! Els vots s'actualitzen en temps real.</p>
+                </div>
+                <div id="voting-list" class="voting-cards">
+                    <!-- La llista de votacions es carregarà dinàmicament -->
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

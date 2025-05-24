@@ -1,0 +1,662 @@
+{
+  "AM 02.001.01": {
+    "nom": "Suro del mas Perxés",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM  02.001.02 ": {
+    "nom": "El Fadrí",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.003.01": {
+    "nom": "Roure dels Capellans o Roure de la Font del Bac",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.060.01": {
+    "nom": "Plàtana Grossa d'en Massot",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.086.01": {
+    "nom": "El Suratell",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.092.01": {
+    "nom": "Arbre de la Llibertat",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.102.01": {
+    "nom": "La Pubilla",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.221.01": {
+    "nom": "Alzina de la Font de Can Massanet",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.228.01": {
+    "nom": "Alzines Bessones de mas Nebot o Alzines Grosses del Bosquet",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.042.01": {
+    "nom": "Plàtan de can Compte",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.054.01": {
+    "nom": "Plàtan de la Plaça",
+    "comarca": "Alt Empordà  ",
+    "vots": 0
+  },
+  "AM 02.086.02": {
+    "nom": "Faig de la Pedra",
+    "comarca": "Alt Empordà",
+    "vots": 0
+  },
+  "AM 03.240.01": {
+    "nom": "Roure de Can Codorniu",
+    "comarca": "Alt Penedès",
+    "vots": 0
+  },
+  "AM 03.288.01": {
+    "nom": "Ametller de can Cervera",
+    "comarca": "Alt Penedès",
+    "vots": 0
+  },
+  "AM 03.273.01": {
+    "nom": "Alzina de can Ros",
+    "comarca": "Alt Penedès",
+    "vots": 0
+  },
+  "": {
+    "nom": "Castanyers de la Traüna IV",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 06.104.01": {
+    "nom": "Roure d'Ancosa",
+    "comarca": "Anoia",
+    "vots": 0
+  },
+  "DM 06.161.01 (1995)": {
+    "nom": "Pineda de can Ferrer del Coll",
+    "comarca": "Anoia",
+    "vots": 0
+  },
+  "AM 06.226.01 ": {
+    "nom": "Alzina de can Gol",
+    "comarca": "Anoia",
+    "vots": 0
+  },
+  "AM previst, AL prev. 06.170.01": {
+    "nom": "Salze de can Mensa",
+    "comarca": "Anoia",
+    "vots": 0
+  },
+  "AM 06.028.01": {
+    "nom": "Pi Gros de can Gallego",
+    "comarca": "Anoia",
+    "vots": 0
+  },
+  "AM  07.047.01": {
+    "nom": "Pi del Rèvol",
+    "comarca": "Bages",
+    "vots": 0
+  },
+  "AM 07.084.01": {
+    "nom": "Alzina Grossa de Querol",
+    "comarca": "Bages",
+    "vots": 0
+  },
+  "AM 07.010.01": {
+    "nom": "Alzina del Mas Pujol",
+    "comarca": "Bages",
+    "vots": 0
+  },
+  "AM 07.127.01": {
+    "nom": "Plàtan d'en Gibert",
+    "comarca": "Bages",
+    "vots": 0
+  },
+  "AM 07.178.01": {
+    "nom": "Lledoner de l'Estació",
+    "comarca": "Bages",
+    "vots": 0
+  },
+  "AM 10.901.01": {
+    "nom": "Alzina de Mas Salelles",
+    "comarca": "Baix Empordà",
+    "vots": 0
+  },
+  "AM 10.901.02": {
+    "nom": "Arboç de can Genoer",
+    "comarca": "Baix Empordà",
+    "vots": 0
+  },
+  "AM 10.197.01": {
+    "nom": "Llentiscle de Torrent",
+    "comarca": "Baix Empordà",
+    "vots": 0
+  },
+  "AM 10.181.01 ": {
+    "nom": "Pi Gros d'en Cama o Pi de Romanyà",
+    "comarca": "Baix Empordà",
+    "vots": 0
+  },
+  "AM 11.020.01": {
+    "nom": "Alzina de Puigvoltor",
+    "comarca": "Baix Llobregat",
+    "vots": 0
+  },
+  "AM 11.066.01": {
+    "nom": "Alzina de can Mitjans",
+    "comarca": "Baix Llobregat",
+    "vots": 0
+  },
+  "AM 11.076.01": {
+    "nom": "Pi Gros de Salt",
+    "comarca": "Baix Llobregat",
+    "vots": 0
+  },
+  "AM 11.068.01": {
+    "nom": "Lledoner del mas Lledoner",
+    "comarca": "Baix Llobregat",
+    "vots": 0
+  },
+  "AM 14.050.01": {
+    "nom": "Pi de les Tres Branques",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.050.02": {
+    "nom": "Pi de les Tres Branques Jove",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.01": {
+    "nom": "Avet de les Molleres de Gresolet",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.02": {
+    "nom": "Faig Gros de les Molleres de Gressolet",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.03": {
+    "nom": "Faigs del Clot de l'Om",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.04": {
+    "nom": "Pins Vells de la Pleta dels Barganesos",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.05": {
+    "nom": "Pi del Roc dels Castellots",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM 14.190.06": {
+    "nom": "Faig de la Baga del Gresolet o Faig Setrill",
+    "comarca": "Berguedà",
+    "vots": 0
+  },
+  "AM previst 15.061.01": {
+    "nom": "Avets de Das",
+    "comarca": "Cerdanya",
+    "vots": 0
+  },
+  "AM 15.913.01": {
+    "nom": "Avets de les Bagues",
+    "comarca": "Cerdanya",
+    "vots": 0
+  },
+  "AM 17.231.01": {
+    "nom": "Pi de la Palanca",
+    "comarca": "Garraf  ",
+    "vots": 0
+  },
+  "AM 17.307.01": {
+    "nom": "Pi Gros de la masia d'en Cabanyes",
+    "comarca": "Garraf  ",
+    "vots": 0
+  },
+  "AM 17.231.02": {
+    "nom": "Mata de la Mata",
+    "comarca": "Garraf  ",
+    "vots": 0
+  },
+  "AM 19.109.01": {
+    "nom": "Roures d'Ormoier",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM  19.114.01": {
+    "nom": "Roureda del Parc Nou",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 19.133.01": {
+    "nom": "Roure de la Xoriguera",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 19.154.01": {
+    "nom": "Teix del Torrent de l'Orri",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 19.207.01": {
+    "nom": "Roure de la Mestressa",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 19.208.01": {
+    "nom": "Roure de can Planes I",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 19.208.02": {
+    "nom": "Roures de la Torre I (mort)",
+    "comarca": "Garrotxa",
+    "vots": 0
+  },
+  "AM 20.089.01": {
+    "nom": "Pi de can Salvador",
+    "comarca": "Gironès",
+    "vots": 0
+  },
+  "AM 21.003.01": {
+    "nom": "Alzina de can Rosselló",
+    "comarca": "Maresme",
+    "vots": 0
+  },
+  "AM 21.030.01": {
+    "nom": "Garrofer de Montcabrer",
+    "comarca": "Maresme",
+    "vots": 0
+  },
+  "AM 21.075.02": {
+    "nom": "Gatell de ca l'Arenes",
+    "comarca": "Maresme",
+    "vots": 0
+  },
+  "AM 21.075.01": {
+    "nom": "Alzina de can Farrerons",
+    "comarca": "Maresme",
+    "vots": 0
+  },
+  "AM 21.230.01": {
+    "nom": "Cuprés de can Figueras",
+    "comarca": "Maresme",
+    "vots": 0
+  },
+  "AM 42.138.01": {
+    "nom": "Roure del Masot",
+    "comarca": "El Moianès",
+    "vots": 0
+  },
+  "AM 42.055.01": {
+    "nom": "Roure del Giol",
+    "comarca": "El Moianès",
+    "vots": 0
+  },
+  "AM 24.063.02": {
+    "nom": "Til·ler de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.03 ": {
+    "nom": "Auró de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.04": {
+    "nom": "Teix de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.05": {
+    "nom": "Castanyer d'Índia de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.06": {
+    "nom": "Avet de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.08": {
+    "nom": "Cedre de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.07": {
+    "nom": "Sequoia de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.063.01": {
+    "nom": "Alzina de Masjoan",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.026.01": {
+    "nom": "Ginebró del Casademont",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.903.01": {
+    "nom": "Roure del Pla del Call",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.201.01": {
+    "nom": "Roure del Vilar o de la Senyora",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.233.02": {
+    "nom": "Fageda de la Grevolosa",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.254.01": {
+    "nom": "Roure de Carboneres",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.269.01": {
+    "nom": "Pinsap dels Sors",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.269.02": {
+    "nom": "Cuprés de can Vives",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.278.01": {
+    "nom": "Alzina del Pujol",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.278.02": {
+    "nom": "Plàtan de la Font Gran",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.275.01": {
+    "nom": "Alzina de Masgrau",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.298.01": {
+    "nom": "Roures Grossos de la Carrera",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.212.01": {
+    "nom": "Faig del Pla Petit de Fontcoberta",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.212.02": {
+    "nom": "Faig de Can Font",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 4.212.03": {
+    "nom": "Roure de la Creu de l'Arç",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.320.02": {
+    "nom": "Avet noble del Noguer",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.320.01": {
+    "nom": "Sequoia roja del Noguer",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.320.03": {
+    "nom": "Sequoia del Noguer",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.320.04": {
+    "nom": "Avet de Numídia del Noguer",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 24.303.01": {
+    "nom": "Sequoia de Tortadès",
+    "comarca": "Osona",
+    "vots": 0
+  },
+  "AM 28.071.01": {
+    "nom": "Aulina Reclamadora de Puigsaguàrdia",
+    "comarca": "Pla de l'Estany",
+    "vots": 0
+  },
+  "AM  28.071.02": {
+    "nom": "Aulina Reclamadora de l'Omeda",
+    "comarca": "Pla de l'Estany",
+    "vots": 0
+  },
+  "AM 28.174.01": {
+    "nom": "Castanyer del pla de Sant Nicolau",
+    "comarca": "El Pla de l'Estany  ",
+    "vots": 0
+  },
+  "AM 28.218.01": {
+    "nom": "Alzina de la Casa Nova de Vilafreser",
+    "comarca": "El Pla de l'Estany  ",
+    "vots": 0
+  },
+  "AM 31.037.01": {
+    "nom": "Avet de la Baga de la Berruga",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.037.02": {
+    "nom": "Roure d'Engelats",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.096.01": {
+    "nom": "Roure Glanic",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.134.01": {
+    "nom": "Avet del Torrent de la Comella",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.145.01": {
+    "nom": "Roure de Vilardell",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.145.02": {
+    "nom": "Roure del Perramon",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.145.03": {
+    "nom": "Grèvol de Ventolà",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.039.01": {
+    "nom": "Auró del Remei",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 31.037.03": {
+    "nom": "Avet del Torrent de la Font Tosca",
+    "comarca": "el Ripollès",
+    "vots": 0
+  },
+  "AM 34.007.01": {
+    "nom": "Alzina de les Famades",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.007.02": {
+    "nom": "Roure de can Puig",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.009.01": {
+    "nom": "Arbre de la Llibertat",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.009.02": {
+    "nom": "Càdec de Boixaus",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.009.03": {
+    "nom": "Magnòlia del Roquer",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.116.01": {
+    "nom": "Pi Gros de l'Espinau",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.116.02": {
+    "nom": "Roure Gros de can Iglesias",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.116.03": {
+    "nom": "Alzina de la Coma",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.148.01": {
+    "nom": "Lledoner de l'Esparra",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.164.01": {
+    "nom": "Pi del Soler de Mansolí",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.164.02": {
+    "nom": "Cirerer del Soler de Mansolí",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.202.01": {
+    "nom": "Es Roure de Bon Retir",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.213.01": {
+    "nom": "Suro de can Magre",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.213.02": {
+    "nom": "Suro de l'Hort de Caulés",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.213.03": {
+    "nom": "Freixe de l'Aulet",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.148.02": {
+    "nom": "Suro de can Ferrer",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 34.101.01": {
+    "nom": "Surolí de cal Músic",
+    "comarca": "La Selva  ",
+    "vots": 0
+  },
+  "AM 40.156.01": {
+    "nom": "Alzina de can Pedró",
+    "comarca": "Vallès Occidental",
+    "vots": 0
+  },
+  "AM 40.184.01": {
+    "nom": "Roure del Parc de ca n'Oriol",
+    "comarca": "Vallès Occidental",
+    "vots": 0
+  },
+  "AM 40.223.01": {
+    "nom": "Pi de les Quatre Besses del Dalmau",
+    "comarca": "Vallès Occidental",
+    "vots": 0
+  },
+  "AM 41.023.01": {
+    "nom": "Plàtan de la Font de la Pineda",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.033.01": {
+    "nom": "Roure de can Corró",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.042.01": {
+    "nom": "Castanyer Gros de la Casa del Bosc o Castanyer de can Cuc",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.081.02": {
+    "nom": "Castanyers de la Traüna I",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.108.01": {
+    "nom": "Alzines de Santa Maria del Vallès I i II",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.106.01": {
+    "nom": "Arboç de Sant Esteve del Coll",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.137.01": {
+    "nom": "Boix de l'Esglèsia",
+    "comarca": "Vallès Oriental",
+    "vots": 0
+  },
+  "AM 41.081.01": {
+    "nom": "Grèvol del Pla de Morou",
+    "comarca": "Vallès Oriental  ",
+    "vots": 0
+  },
+  "AM 41.202.01": {
+    "nom": "Roure de Santa Maria de Montnegre",
+    "comarca": "Vallès Oriental  ",
+    "vots": 0
+  },
+  "AM 41.210.01": {
+    "nom": "Om del Banc de la Paciència",
+    "comarca": "Vallès Oriental  ",
+    "vots": 0
+  }
+}
